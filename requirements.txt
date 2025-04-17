@@ -1,4 +1,3 @@
-sounddevice
 scipy
 requests
 python-dotenv
