@@ -1,0 +1,6 @@
+sounddevice
+scipy
+requests
+python-dotenv
+yt-dlp
+pydub
